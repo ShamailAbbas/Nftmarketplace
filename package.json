@@ -1,0 +1,11 @@
+{
+  "name": "mynftmarket",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "@truffle/hdwallet-provider": "^2.0.0"
+  }
+}
